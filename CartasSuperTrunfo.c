@@ -3,6 +3,7 @@
         int populacao, turistico;
         float km, pib;
         char estado[3], cidade[50], numero [5];
+        printf("novo commit\n")
 
         printf("SUPER TRUNFO - CIDADES\n\n");
 
