@@ -1,6 +1,5 @@
 #include <stdio.h>
     printf("novo commit")
-    printf("git remote -v")
     int main(){
         int  turistico, populacao;
         float km, pib, densidade, percapita;
