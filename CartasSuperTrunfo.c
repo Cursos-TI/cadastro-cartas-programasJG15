@@ -1,5 +1,7 @@
 #include <stdio.h>
+
     printf("novo commit")
+
     int main(){
         int  turistico, populacao;
         float km, pib, densidade, percapita;
